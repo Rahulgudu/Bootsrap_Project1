@@ -1,0 +1,16 @@
+/* 1st code goes here, adding the link */
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;500&display=swap');
+
+/* 2nd code goes here, adding the style for whole webpage */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* 3rd code goes here, styling the a tag */
+a{
+    color: #000;
+    text-decoration: none;
+}
